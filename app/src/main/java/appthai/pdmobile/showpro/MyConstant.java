@@ -7,7 +7,7 @@ package appthai.pdmobile.showpro;
 public class MyConstant {
 
     // Exp
-    private String urlJSONString = "http://swiftcodingthai.com/chy/get_promote_where_phanthep.php";
+    private String urlJSONString = "http://swiftcodingthai.com/boy/get_promote_where_phanthep.php";
 
     private String database_name = "ShowPro.db";
     private int database_version = 1;
